@@ -30,3 +30,5 @@ public class BuddyInfo {
         System.out.println("Hello " + buddy1.getName());
     }
 }
+
+//hello world
